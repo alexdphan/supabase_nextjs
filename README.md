@@ -1,5 +1,7 @@
 Trying out Supabase w/ Nextjs
 
+If you want to make an account, add a username/email/pfp for no reason... By all means go ahead lol.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
