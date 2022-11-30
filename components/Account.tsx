@@ -84,7 +84,7 @@ export default function Account({ session }: { session: Session }) {
     <div className="form-widget">
       {/* Add to the body */}
       <Avatar
-        uid={user.id}
+        uid={user?.id?.toString() || ''} // added optional chaining
         url={avatar_url}
         size={150}
         onUpload={(url) => {
