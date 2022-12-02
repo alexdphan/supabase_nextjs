@@ -1,4 +1,4 @@
-Trying out Supabase w/ Nextjs
+Trying out Supabase w/ Nextjs...
 
 If you want to make an account, add a username/email/pfp for no reason... By all means go ahead lol.
 
